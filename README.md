@@ -4,4 +4,4 @@ This BMI calculator was made using ReactJS.
 
 <h3>ScreenShot</h3>
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/display.png "Output")
+![alt text](https://raw.githubusercontent.com/VarunV991/BMI-Calculator/master/src/display.png "Output")
