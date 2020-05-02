@@ -1,0 +1,16 @@
+.Parameter{
+    font-size: 18px;
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.Parameter input{
+    height: 40px;
+    width: 50px;
+    font-size: 15px;
+    border:1px solid black;
+    box-shadow: 1px 5px black;
+    padding: 5px;
+}
