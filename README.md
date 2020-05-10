@@ -2,6 +2,6 @@
 
 This BMI calculator was made using ReactJS.
 
-<h3>ScreenShot</h3>
+## Live Demo 
 
-![alt text](https://raw.githubusercontent.com/VarunV991/BMI-Calculator/master/src/display.png "Output")
+<a href="https://murmuring-reef-20784.herokuapp.com/"> BMI Calculator </a>
