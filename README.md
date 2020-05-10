@@ -1,7 +1,12 @@
 # BMI Calculator
 
-This BMI calculator was made using ReactJS.
+Body mass index (BMI) is a measure of body fat based on height and weight that applies to adult men and women.
 
-<h3>ScreenShot</h3>
+### How to use
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/display.png "Output")
+* Enter your weight and height using standard or metric measures.
+* Click on "Calculate!" and your BMI will appear below.
+
+## Live Demo 
+
+<a href="https://murmuring-reef-20784.herokuapp.com/"> BMI Calculator </a>
